@@ -32,77 +32,72 @@ This study was approved by the Ethics Committe at the University of Verona ([Uni
 
 ### Trial Design
 
-This is a parallel controlled randomized trial comparing a control group versus a positive psychology toolkit comprehending four main components: (1) focus on the positive rather than the negative side of the work, (2) understand meaning/purpose of the work and establish a connection to its mission, (3) underscore the value that youthe person individually brings to the organization, (4) try to see challenges as opportunities for personal growth, enabled through a problem solving attitude. The trial involved 106 participants who completed the trial <!-- replace by the actual number and describe dropout rate -->, randomized on a 1:1 ratio to the intervention and control arms, with the intervention and respective follow-up lasting a total of four weeks. No changes to the initially methods design were implemented while the trial was in course. <!-- need to check at the end whether this is true -->
+This is a parallel controlled randomized trial comparing a control group versus a stakeholder enactment educational framework comprehending a combination of two main components: (1) use of whole tasks according to the Complex Learning Instructional Design ([Merrienboer,]()) and (2) role play specifically focused on having job seekers playing the role of the stakeholders who would later evaluate their skills during a job interview. 
+
+The trial involved 106 participants completing the trial <!-- replace by the actual number and describe dropout rate -->, randomized on a 1:1 ratio to the intervention and control arms, with the intervention and respective follow-up lasting a total of four weeks. No changes to the initially methods design were implemented while the trial was in course. <!-- need to check at the end whether this is true -->
 
 ### Participants
-Our study involved 106 participants. Participants were employees at <!-- add -->, located in the Northeast part of Italy. For each participant we have collected information on gender, age, profession and previous educational background.
+Our study involved 106 participants. Participants were students at the University of Verona and <!-- add -->, located in the Northeast part of Italy. For each participant we have collected information on gender, age, profession and previous educational background.
 
 ### Interventions
 
 
-The "better half" arm was constituted by a short course with weekly video lectures and exercises focused on a positive psychology toolkit. Specifically, the toolkit involved a series of videos where participants had to answer questions that attempted to create a more positive attitude toward their jobs. These questions focused on four main components of the toolkit, each series of questions delivered one per week:
+The "stakeholder enactment arm" arm was constituted by a short course with weekly video lectures, exercises and additional readings focused on a skills required for finding jobs. These areas included <!-- Andrea please add -->
 
-1. Focus on the positive rather than the negative aspect of the job. This was accomplished by asking questions such as: "is really all the time spent on your job really that bad?" This question was then followed by a request for the participants to create lists about what they currently perceive as a negative aspect of their jobs, how that same characteristic was initially perceived as a positive or interesting thing at the beginning of their job, and how that perception had changed over time. The insight to be gained through this exercise was that negative perceptions can be a belief rather than an experience, making participants go back to the beginning of their job experience when certain aspects of the job seemed to be positive
-2. Understand the meaning or purpose of their job and connect those aspects to the overall mission. In this exercise, we emphasized that many characteristics of the jog that might over time seem meaningless or boring actually connected to a larger mission of the company, and that this connection might have been lost over time. By regaining the connection between tasks and a larger purpose, we attempted to recreate the perception that their activities actually had a larger purpose and therefore provided meaning to their day-to-day activities.
-3. Underscore the value that the person might individually bring to the organization. The main point in this exercise was to regain the perception that the individual work one performs in the organization is actually essential for its ability to achieve a major goal, even if the task might not seem important when perceived from a day-to-day perspective.
-4. Attempt to see challenges as opportunities for personal growth, enabled through a problem solving attitude. This exercise attempted to create the perception that what might seem as simple barriers impeding growth are actually the means to growth themselves. In other words, it is only through challenges and overcoming those challenges that one is capable of growing in their careers and as persons.
+The two main principles behind the intervention where Merrienboer's Complex Learning Theory <!-- ref --> and the Role Play educational theory <!-- ref -->. Briefly, Merrienboer's  Complex Learning Theory has among its principles the use of so called "whole tasks" <!-- add -->
 
-The control arm was not provided with an intervention, but simply by the outcome questionnaires discussed in a subsequent section.
+Role play <!-- add -->
 
-All educational material for this course is made available within our Reproducible Research repositories, and delivered through the original [Open edX platform](http://code.edx.org/). Videos were provided in in Italian. All remaining material was made available in Italian, although both Italian and English versions are provided within our Reproducible Research repositories (see subsequent section on Reproducible Research).
+The way these two theories were combined in our stakeholder enactment intervention is described in detail in a separate publication (see [Pietrobon et cols, 2014]()), but below we provide the main workflow:
 
+1. Provide a video and readings with supportive information on a specific aspect of job finding skills, such as <!-- add -->
+1. Announcement that participants will take the role of job interviewers rather than of interviewees
+2. A video demonstrates an actor playing the role of an interviewee providing answers to a number of standard interview questions
+3. Subsequent items then asked the participant what in the interviewee's answers were errors, missing aspects and correct responses
+
+Participants in the control arm were provided with readings on each of the topics.
+
+All educational material for this course is made available within our Reproducible Research repositories, and delivered through the original [Open edX platform](http://code.edx.org/). Videos were provided in Italian. All remaining material is made available in Italian, although both Italian and English versions are provided within our Reproducible Research repositories (see subsequent section on Reproducible Research).
 
 <!-- add CONSORT for Non-Pharmacological Treatment Interventions -->
 
-<!-- soft skills, tacit knowledge, rationality, competition, empathy, choice, aesthetics, memory, emotion, happiness - ask mauro for opinion on what could work -->
+
 
 ### Outcome variables
-<!-- : toolkit send email to yourself as 4 ferramentas vão ser, a principio:  outcome variables:  -->
 
-Our study had four main categories of outcome variables: work engagement, meaning, purpose in life and job satisfaction, all described under the subsequent sections. Per CONSORT Statement guidelines, any eventual changes to outcome measures deviating from the initial plan and occurring throughout the trial were recorded in our versioning system ([Github](https://github.com/)), thus ensuring full reproducibility. However, changes were avoided unless strictly necessary.
-
-<!-- Francesco to talk with Semeghini -->
-
-#### Work engagement
-
-#### Meaning
-
-#### Purpose in life 
+Our study three main outcome variable categories: knowledge, learning experience and impact in daily practice, all described under the subsequent sections. Per CONSORT Statement guidelines, any eventual changes to outcome measures deviating from the initial plan and occurring throughout the trial were recorded in our versioning system ([Github](https://github.com/)), thus ensuring full reproducibility. However, changes were avoided unless strictly necessary.
 
 
-The Life Engagement Test: Assessing Purpose in Life
+<!-- get below from Gustavo's -->
 
-#### Job satisfaction
+#### Knowledge
 
+#### Learning experience
 
-#### Sense of coherence
-http://www.benthamscience.com/open/togerimj/articles/V004/6TOGERIMJ.pdf
-
-<!-- francesco to translate scale -->
-
+#### Impact in daily practice
 
 
 ####  Sample size
 
-Given the absence of preliminary efficacy data, we calculated our sample size based on an assumption of a two-sample t-test for an index representing the worst case scenario for each of the four outcomes, with an effect size of 55%, a significance level and statistical power set at the traditional levels of 0.05 and 80%, respectively. Under these assumptions the estimated required sample size is of 52.9 per group, which we have rounded to 53, ultimately leading to a total sample size of 106 participantsin total. Taking into account a worst case scenario dropout rate of approximately 20%, we therefore plan to enroll 140 participants.
+Given the absence of preliminary efficacy data, we calculated our sample size based on an assumption of a two-sample t-test for an index representing the worst case scenario for each of the three outcomes, with an effect size of 55%, a significance level and statistical power set at the traditional levels of 0.05 and 80%, respectively. Under these assumptions the estimated required sample size is of 52.9 per group, which we have rounded to 53, ultimately leading to a total sample size of 106 participants in total. Taking into account a worst case scenario dropout rate of approximately 20%, we therefore planned to enroll 140 participants.
 
 
 ####  Interim analyses and stopping guidelines
 
-Given the relatively short duration of our trial, we did not perform an interim analyses. In addition, given the low risk associated with the intervention, our guidelines did recommend that the trial be stopped in case of an unlikely loss of confidentiality that might compromise participants privacy, which has not occurred.
+Given the relatively short duration of our trial, we did not perform an interim analyses. In addition, given the low risk associated with the intervention, our guidelines did recommend that the trial be stopped only in case of an unlikely loss of confidentiality that might have compromised participants privacy, which has not occurred.
 
 ####  Randomization: sequence generation
 
-All randomization schedules were delivered through [Planout](http://facebook.github.io/planout/) within the [edx Code](http://code.edx.org/) platform. Briefly, Planout makes use of a pseudorandom number generator from the [Python language](https://www.python.org/), which has been extensively tested. <!-- need ref --> Randomization was blocked at 10 participants, thus decreasing the likelihood of a possible imbalance.  
+All randomization schedules were delivered through [Planout](http://facebook.github.io/planout/) within the [edx Code](http://code.edx.org/) platform. Briefly, Planout makes use of a pseudorandom number generator from the [Python language](https://www.python.org/), which has been extensively tested. <!-- need ref --> Randomization was blocked at 10 participants, thus decreasing the likelihood of a possible imbalance.  Additional details are provided in a publication by our group <!-- ref -->
 
 All randomization was delivered through the Open edX platform, thus ensuring that participants and investigators are blind to the allocation. Data analysts (RP and JRV) received a dataset from the computer scientist (BM) where the two randomization arms were designated by unspecific letters, thus ensuring that the analysis is also conducted in a blind fashion.
 
 
 #### Statistical methods 
 
-All analyses were conducted by the members in our team(RP, JRV). The data analysis started with an overall evaluation of individual variables to assess distributions for continuous variables (e.g., participant's age) in terms of their distributions, as well as the frequency/percentage for categorical variables (e.g., gender). 
+All analyses were conducted by the members in our team (RP, JRV). The data analysis started with an overall evaluation of individual variables to assess distributions for continuous variables (e.g., participant's age) in terms of their distributions, as well as the frequency/percentage for categorical variables (e.g., gender). 
 
-Missing values were handled differently if they happened to individual variables or full encounters, e.g., an entire evaluation for a week. Individual variables were imputed starting by an exploratory visual analysis to better understand the potential underlying pattern behind missing values for each variable. This analysis was conducted using the [VIM package](http://cran.r-project.org/web/packages/VIMGUI/vignettes/VIM-Imputation.pdf) within the [R language](http://www.r-project.org/). Depending on the pattern of missing data, we might then choose one of several alternatives, ranging from not imputing when the percent missing might be negligible, imputing using predictive models from variables that are hypothesized to be associated with the missing values (e.g., age predicting residency year), or multiple imputation in cases where missing patterns might be happening at random (MAR or missing at random) (@rubin1976inference). <!-- see 3d grant -->
+Missing values were handled differently if they happened for individual variables or full encounters, e.g., an entire evaluation for a week. Individual variables were imputed starting by an exploratory visual analysis to better understand the potential underlying pattern behind missing values for each variable. This analysis was conducted using the [VIM package](http://cran.r-project.org/web/packages/VIMGUI/vignettes/VIM-Imputation.pdf) within the [R language](http://www.r-project.org/). Depending on the pattern of missing data, we then chose one of several alternatives, ranging from not imputing when the percent missing might be negligible, imputing using predictive models from variables that are hypothesized to be associated with the missing values (e.g., age predicting residency year), or multiple imputation in cases where missing patterns might be happening at random (MAR or missing at random) (@rubin1976inference). <!-- see 3d grant -->
 
 We evaluated for potential confounding of the intervention effect by assessing balance across baseline variables between the 3D and control arms. This evaluation occurred for the overall study. While imbalances were unlikely given that we are using a series of preventive measures (blinding, concealed allocation, blocking and stratification), eventual imbalances were evaluated on an individual basis and required adjusting in our modeling strategy (see below for details).
 
@@ -112,7 +107,7 @@ Given that all of our outcomes have multiple endpoints over time, we used a comb
 
 
 ### Reproducible research
-In order to follow a reproducible research protocol, we have written our final manuscript using Rmarkdown, which combines the R language with the [Markdown markup](http://daringfireball.net/projects/markdown/), ultimately allowing us to leave all calculations and data manipulation within the article text. All data sets and respective analytical scripts were provided in CSV (comma separated value) formats in open public repositories including [Figshare](http://figshare.com/) and [Github](https://github.com/). In addition, we have also stored the version of the software used in this analysis and deposited it within our Github and Figshare repositories, ultimately decreasing the probability of reproducibility issues during subsequent attempts to reproduce our analyses. <!-- add paper that recommends this procedure -->
+In order to follow a reproducible research protocol, we have written our manuscript while the project was ongoing, using the [Git]() versioning system and the [Github]() application. Specifically we used [Rmarkdown](), which combines the R statistical language with the [Markdown markup](http://daringfireball.net/projects/markdown/), ultimately allowing us to leave all calculations and data manipulation within the article text. All data sets and respective analytical scripts were provided in JSON (JavaScript Object Notation) in open public repositories including [Figshare](http://figshare.com/) and [Github](https://github.com/). In addition, we have also stored the version of the software used in this analysis and deposited it within our Github and Figshare repositories, ultimately decreasing the probability of problems during subsequent attempts to reproduce our analyses. <!-- add paper that recommends this procedure -->
 
 ## Results
 
