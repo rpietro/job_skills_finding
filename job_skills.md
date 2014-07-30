@@ -17,7 +17,7 @@ Ricardo Pietrobon
 
 With the current economic crisis in Europe, and particularly in Italy, job finding skills are more important than ever. And yet, quality learning resources that adequately train students are scarce within academic environments. While the definition of quality learning in the context of job finding skills is mostly in the eyes of the beholder, most would agree that in order for a training to be satisfactory the learner should demonstrate skills that employers would judge of quality during the interview process. In other words, quality is mostly defined by the stakeholder judging the outcome of the job finding skills in the real world. Unfortunately, most learning frameworks do not attempt to have learners enact the stakeholders who are in charge of judging them.
 
-* lit review on job skills online learning
+* lit review on job skills online learning (test)
 * lit review on role play and merrienboer
 
 The objective of this educational, reproducible, parallel randomized trial is therefore to compare a stakeholder enactment learning framework intervention versus a control group in relation to knowledge, learning experience and impact in practice. We hypothesized that, compared to the control arm, the stakeholder enactment framework would significantly increase knowledge and experience.
