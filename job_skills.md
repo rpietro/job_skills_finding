@@ -67,6 +67,11 @@ All educational material for this course is made available within our Reproducib
 
 Our study three main outcome variable categories: knowledge, learning experience and impact in daily practice, all described under the subsequent sections. Per CONSORT Statement guidelines, any eventual changes to outcome measures deviating from the initial plan and occurring throughout the trial were recorded in our versioning system ([Github](https://github.com/)), thus ensuring full reproducibility. However, changes were avoided unless strictly necessary.
 
+Furthermore, to each group (intervention and control) has been administered three questionnaire regarding, respectively: sense of choerence (SoC; Antonovosky, 1987); general perceived self-efficacy (GSE; Schwarzer, 1995); intention to leave their country (ItL). Sense of Coherence (SOC) can be defined as a successful management ability to face stressors of daily life (Sardu et al., 2012); whereas, the general self-efficacy evaluate a broad self-perception of personal competence (Schwarzer and Luszczynska, 1992). As highlighted by the Authors, this conceptualization of self-efficacy is not opposite to the Bandura's theory (1997), that sees the self-efficacy evaluable only on specific situations: in fact, GSE pertains and explain a complex set of perceptions and behaviours regarding personal beliefs to cope with difficulties.
+The ItL scale  was developed *ad hoc*, based on various previous questionnaires concerning turnover intentions <!--ref-->, in order to assess the intention to leave Italy by the sudents and look for a job in a foreign country. We presumed that this orientation would been lower for the intervention group rather than the control group students, as the first one acquire more tools to find and maintain a job than the second one. Moreover, we think this result could be directly originated by the level of self-efficacy and sense of coherence.
+
+
+
 
 <!-- get below from Gustavo's -->
 
@@ -115,6 +120,11 @@ In order to follow a reproducible research protocol, we have written our manuscr
 
 ## Discussion
 
+## References
+
+Sardu, C., Mereu, A., Sotgiu, A., Andrissi, L., Maria Katarina, J., & Contu, P. (2012). Antonovsky’s Sense of Coherence Scale: Cultural Validation of Soc Questionnaire and Socio-Demographic Patterns in an Italian Population. *Clinical Practice & Epidemiology in Mental Health*, 8, 1–6.
+
+Schwarzer e Jerusalem (1995).Schwarzer R, Jerusalem M. Generalized Self-Efficacy scale. In: Weinman J, Wright S, Johnston M. Eds. *Measures in health psychology: A user’s portfolio. Causal and control beliefs*. United Kingdom: Nfer-Nelson, 1995, 35-37 (italian adaptation by Sibilia L.).
 
 <!-- http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0084118
 
@@ -129,3 +139,4 @@ http://justinmberg.com/berg-dutton--wrzesniewski_j.pdf
 http://www.compasspoint.org/sites/default/files/docs/Positive%20Organizational%20Scholarship%20Concepts%20and%20Resources.pdf
 http://positiveorgs.bus.umich.edu/cpo-tools/job-crafting-exercise/
  -->
+
